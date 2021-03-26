@@ -1,0 +1,1 @@
+docker exec -i -t php-cli /bin/bash

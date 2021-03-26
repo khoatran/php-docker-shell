@@ -1,0 +1,1 @@
+docker run -v /$(pwd)/data:/data --name php-cli -it php-cli
